@@ -1,1 +1,2 @@
-estamos tentando resolver um comflito
+estamos tentando resolver um comflito // 
+gerei um conflito agora 
